@@ -1,4 +1,4 @@
 demo version of the file
 line 1
 line 2
-line 4
+line 4 added this to make a conflict
