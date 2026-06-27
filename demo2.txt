@@ -1,4 +1,4 @@
 demo version of the file
 line 1
 line 2
-line 4 competely different line
+line 4 the conflict is solved
