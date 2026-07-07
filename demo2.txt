@@ -1,4 +1,0 @@
-demo version of the file
-line 1
-line 2
-line 4 the conflict is solved
